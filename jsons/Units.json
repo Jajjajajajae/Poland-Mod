@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Phasers",
+		"name": "UKM-2000",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Republic of Poland",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
+		"rangedStrength": 40,
+		"range": 3,
+		"cost": 460,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": "pkm-ukmshot"
 	}
 ]
